@@ -27,5 +27,8 @@
     "express-swagger-generator": "^1.1.17",
     "mongoose": "^5.9.7",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
   }
 }
