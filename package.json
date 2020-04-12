@@ -1,0 +1,34 @@
+{
+  "name": "Lab08--Express-Routing-And-Connected-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-401n16/Lab08--Express-Routing-And-Connected-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-401n16/Lab08--Express-Routing-And-Connected-API/issues"
+  },
+  "homepage": "https://github.com/Shubham-401n16/Lab08--Express-Routing-And-Connected-API#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-swagger-generator": "^1.1.17",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}
